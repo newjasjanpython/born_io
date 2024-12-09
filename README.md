@@ -11,7 +11,7 @@ There is not any examples for this project becouse project is not build yet.
 
 ### Framework/Libraries
 
-** Backend **
+*Backend*
     1. Django
     2. Django Rest Framework
 
