@@ -37,4 +37,5 @@ To keep best perfomance we add best technologies
 We have list of things to do in future.
 
 1. <p>Accounts</br>Keep all you data in one place with out accounts service.</p>
+2. <p>Communities</br>Create you own community and collect all people interested in you theme.</p>
 
