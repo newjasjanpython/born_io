@@ -14,8 +14,6 @@ There is not any examples for this project becouse project is not build yet.
 ### Backend
 This is best backend frameworks we know and used most.
 
-* [![Next][Next.js]][Next-url]
-
 1. Django
 2. Django Rest Framework
 
@@ -25,4 +23,12 @@ We tried to use best frontend development framework and libraries.
 1. React
 2. Tailwindcss
 3. Headless.UI
+
+
+## Technologies
+To keep best perfomance we add best technologies
+
+1. Docker
+2. Postgresql
+3. Redis
 
