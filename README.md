@@ -36,6 +36,16 @@ To keep best perfomance we add best technologies
 ### Cooming soon
 We have list of things to do in future.
 
-1. <p>Accounts</br>Keep all you data in one place with out accounts service.</p>
-2. <p>Communities</br>Create you own community and collect all people interested in you theme.</p>
+01. <p><b>Accounts</b></br><i>Keep all you data in one place with out accounts service.</i></p>
+02. <p><b>Communities</b></br><i>Create you own community and collect all people interested in you theme.</i></p>
+03. <p><b></b></br><i></i></p>
+04. <p><b></b></br><i></i></p>
+05. <p><b></b></br><i></i></p>
+06. <p><b></b></br><i></i></p>
+07. <p><b></b></br><i></i></p>
+08. <p><b></b></br><i></i></p>
+09. <p><b></b></br><i></i></p>
+10. <p><b></b></br><i></i></p>
+11. <p><b></b></br><i></i></p>
+12. <p><b></b></br><i></i></p>
 
