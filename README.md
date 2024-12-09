@@ -14,6 +14,8 @@ There is not any examples for this project becouse project is not build yet.
 ### Backend
 This is best backend frameworks we know and used most.
 
+* [![Next][Next.js]][Next-url]
+
 1. Django
 2. Django Rest Framework
 
