@@ -38,14 +38,8 @@ We have list of things to do in future.
 
 01. <p><b>Accounts</b></br><i>Keep all you data in one place with out accounts service.</i></p>
 02. <p><b>Communities</b></br><i>Create you own community and collect all people interested in you theme.</i></p>
-03. <p><b></b></br><i></i></p>
-04. <p><b></b></br><i></i></p>
-05. <p><b></b></br><i></i></p>
-06. <p><b></b></br><i></i></p>
-07. <p><b></b></br><i></i></p>
-08. <p><b></b></br><i></i></p>
-09. <p><b></b></br><i></i></p>
-10. <p><b></b></br><i></i></p>
-11. <p><b></b></br><i></i></p>
-12. <p><b></b></br><i></i></p>
+03. <p><b>Uploads</b></br><i>Uploads you pictues, videos or audio files. Any kind of media in one place.</i></p>
+04. <p><b>Forums</b></br><i>Ask about your interests or problems to solve with people.</i></p>
+05. <p><b>Musics</b></br><i>Listen to all you favorite musics from Spotify or You-Tube. With one link to your musics.</i></p>
+06. <p><b>Inventory</b></br><i>Any kind of thing you uploaded or you earning are saved in inventory.</i></p>
 
