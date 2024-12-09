@@ -4,20 +4,20 @@ This is simple project (maybe uploaded to another domain.)
 
 
 
-### Examples
+### 🙃 Examples
 
 There is not any examples for this project becouse project is not build yet.
 
 
-### Framework/Libraries
+### 🛠️ Framework/Libraries
 
-#### Backend
+#### ⚙️ Backend
 This is best backend frameworks we know and used most.
 
 1. Django
 2. Django Rest Framework
 
-#### Frontend
+#### 🌃 Frontend
 We tried to use best frontend development framework and libraries.
 
 1. React
@@ -25,7 +25,7 @@ We tried to use best frontend development framework and libraries.
 3. Headless.UI
 
 
-### Technologies
+### 🏹 Technologies
 To keep best perfomance we add best technologies
 
 1. Docker
@@ -33,7 +33,7 @@ To keep best perfomance we add best technologies
 3. Redis
 
 
-### Cooming soon
+### 🗓️ Cooming soon
 We have list of things to do in future.
 
 01. <p><b>Accounts</b></br><i>Keep all you data in one place with out accounts service.</i></p>
